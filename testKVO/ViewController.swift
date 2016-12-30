@@ -435,6 +435,7 @@ class ViewController: UIViewController, testPro {
         print(max &+ 1,max)
         let maxDou: Double = Double(max) * 1000
         print("maxDou",maxDou)
+        print("master")
 
 
 
